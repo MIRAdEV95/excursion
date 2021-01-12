@@ -7,12 +7,23 @@ body {
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+/* header area */
 .header {
   font-weight: normal;
   font-size: 50px;
   color: #fff;
   margin: 25px 0 25px 0;
 }
+.sub-header {
+  color: #fff;
+  font-weight: 300;
+  font-size: 42px;
+}
+.sub-header-one {
+  color: gray;
+  font-size: 21px;
+}
+/* links */
 .link-de {
   font-size: 16px;
   color: aquamarine;
